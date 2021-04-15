@@ -1,6 +1,6 @@
 {
   "name": "@etchedjs/dispatcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to easily dispatch updates on etched objects, without any state",
   "main": "dispatcher.js",
   "type": "module",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/etchedjs/dispatcher#readme",
   "peerDependencies": {
-    "@etchedjs/etched": "^8.4.0"
+    "@etchedjs/etched": "^8.4.2"
   }
 }
