@@ -1,6 +1,6 @@
 {
   "name": "@etchedjs/dispatcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A utility to easily dispatch updates on etched objects, without any state",
   "main": "dispatcher.js",
   "type": "module",

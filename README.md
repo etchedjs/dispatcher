@@ -17,7 +17,7 @@ Then the idea is simple: provide a way to subscribe/unsubscribe for updates to s
 
 ```js
 import { etch, model } from '@etchedjs/etched'
-import { dispatcher, subscription } from '@etchedjs/dispatcher.js'
+import { dispatcher, subscription } from '@etchedjs/dispatcher'
 
 const incrementer = model(dispatcher, {
   // a set of dispatcher subscriptions
